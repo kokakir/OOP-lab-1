@@ -1,0 +1,4 @@
+﻿  first_pract.cpp
+C:\Users\koka5\source\repos\first_pract\first_pract\first_pract.cpp(58): warning C4715: 'binevklid': not all control paths return a value
+C:\Users\koka5\source\repos\first_pract\first_pract\first_pract.cpp(47): warning C4715: 'min_': not all control paths return a value
+  first_pract.vcxproj -> C:\Users\koka5\source\repos\first_pract\Debug\first_pract.exe
